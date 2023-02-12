@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This repository is for the ALX Shell Basics task
+This repository contains solutions to the shell basics task
